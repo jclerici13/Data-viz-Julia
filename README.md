@@ -30,7 +30,8 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`. 
+These visualizations are based of the data from OECD, which you can find at https://www.oecd.org/en/data/indicators/general-government-debt.html
+OECD defines general government debt as a percentage of GDP. This is calculated from currency and deposits, debt securities, loans, insurance, pensions, accounts payable and standardized guarantee schemes. These visualizations demonstrate the sustainability of different government finances and changes in their debt over time. 
 <iframe
 src="https://public.tableau.com/views/VisualizingGovernmentDebt_17883930052660/GeneralGovernmentDebtOECD?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
