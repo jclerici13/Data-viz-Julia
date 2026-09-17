@@ -1,45 +1,21 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique-By-Design
-Original Visualization
+Original Visualization: https://resume.io/blog/which-country-gets-the-most-paid-vacation-days 
 
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
-## Step five: build the solution
-
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+My design
+<iframe
+src="https://public.tableau.com/views/PaidVacationDaysPerCountry_17896842600110/AverageAmountofPaidVacationDaysPerCountry?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+ 
+My Critique:
+In my original critic of the visualization, my biggest problem I had was how overwhelming it felt due to all the different elements and how I could not focus my attention in a way that allowed to me properly digest the information the visualization was trying to convey. Based on this, I wanted to make a physical sketch first of a general world map with a title and color scheme. In this sketch I simply redrew the original map outline and go rid of all of the numbers and other graphics.
+Group Feedback: 
+One of the biggest critiques of my sketch was that the colors in scheme were too similar which I totally agreed with (SPPM student). One of my peers also gave me the feedback that because it was a physical map that it was harder to see the smaller countries. In my first draft I used different types of greens; one of the students who gave me feedback stated that green made would make the viewer think that the visual was about the environment (student, MISM). While I personally do not get that correlation when I was looking at it, I can see why they would think that and ended up changing it to a blue gradient in my final version. 
+My Redesign:
+I do think creating the final visualization on Tableau was absolutely the right move. On Tableau, I was able to keep the simplicity I wanted while also allowing viewers to hover over each country and get even more information on the exact number of vacation days each country offered. I think would make the visualization more engaging and interactive for viewers compared to the original design. By using a Tableau world map, it made it much easier to see each individual country while providing a clear gradient color scheme.  Tableau made the information more depth while not being too complicated, which I believe gave the visualization the best informative and emotive qualities.  
+<img width="1480" height="718" alt="image" src="https://github.com/user-attachments/assets/6065733d-992e-4141-9de2-6927bda349f0" />
 
 ## References
-_List any references you used here._
+https://resume.io/blog/which-country-gets-the-most-paid-vacation-days
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
