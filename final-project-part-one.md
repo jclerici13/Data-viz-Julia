@@ -24,6 +24,6 @@ For readers, I want to make a visualization that is readable and simple so that 
 
 ## References
 For my project, I will be using Spotify to look up the BPM of each song.
-https://www.officialcharts.com/charts/singles-chart/20250627/7501/
+“Official Singles Chart Top 100 .” Official Charts, www.officialcharts.com/charts/singles-chart/20250627/7501/. 
 
 
