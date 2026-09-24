@@ -19,7 +19,7 @@ For readers, I want to make a visualization that is readable and simple so that 
 
 ## Initial sketches
 
-![initial sketch](images/IMG_0156.jpg)
+![initial sketch](IMG_0156.jpg)
 
 
 ## References
