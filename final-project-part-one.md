@@ -20,7 +20,7 @@ For readers, I want to make a visualization that is readable and simple so that 
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
-> 
+> ![initial sketch](IMG_0156.heic)
 
 
 Text here...
