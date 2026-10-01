@@ -8,23 +8,22 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+For my audience I am interested in reaching people who listen to mainstream media. For example, people I am looking for could be the average radio listener, someone who pays attention to pop culture, someone who watches the grammys. I am looking for people who are in their early twenties to forties as I am making  time comparisons in my visuals, which I believe will be more relevant to that age demographic.  
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
+Script:
+> Assess likelihood of a grammy winning “best new artist” will achieve commercial success. 
+How popular were best new artist winners prior to winning the Grammy.
+Are there trends in consistency of commercial success or the amount of songs that become hits.
 
-Text here!
+Interview Questions:
+Do you watch the Grammys and how familiar are you with the following artists?
+Do you think the Grammy’s impact the success of an artist's career? Do you think it has changed over time?
+Is the story clear? How many sketches should I focus on and which were the most impactful? 
+Is showing hits vs albums relevant? Should I include or exclude the charts that only had 1 week? 
+What about comparing total hits to albums?
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -55,13 +54,11 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
+“Best New Artist 2001 Winners & Nominees.” Grammy, 12 Aug. 2026, www.grammy.com/awards/categories/best-new-artist/2001/. 
+“Biography, Music & News.” Billboard, www.billboard.com/artist/billboard/. 
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
