@@ -1,36 +1,29 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+https://carnegiemellon.shorthandstories.com/grammy-winning-best-new-artists/index.html 
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+Based on my feedback from Part II, I tried narrow my audience and be more specific.
+In my storyboard itself, I was told that I would need to include written context to that my story and the data I was presenting would be easier to understand for my audience. I agreed with this feedback and added explanations alongside my visuals to provide the context needed for specific data points and outliers. I think that this did strengthen my visuals as I was able to explain the reasons behind certain trends and outliers.
+	Based on feedback I received from my interviews, I did include more visuals, specifically in the chart for prior years. It was an idea I was considering earlier in the project but decided to exclude for my class presentation. My interviews suggested I include it in my final shorthand as it helps setup my story. To further help setup my story, I also included more written context on how I was measuring success and why I chose the Billboard Charts. During my class presentation I got a question on why I was using the Billboard Charts to measure success, and so I thought it would benefit my final story to include that context to gain trust with my audience. The last change I made was to add dot chart that showed how artists performed on the Billboard Hot 100 compared to 200. I added this chart because I thought it helped transition my focus from hit songs to albums and demonstrated that I was thinking of measuring success in a more holistic way, rather than just individual songs. The last thing I did for my shorthand was fix the buttons at the top. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+My target audience is music fans, particularly young adults who follow popular music, the Grammy Awards, and emerging artists. This project is designed for people who are curious about the relationship between industry recognition and commercial success. Through Billboard chart data, the visualizations explore how Best New Artist winners perform before and after winning the award and compare their success through songs and albums. The project provides more context audiences who want to learn more about what commercial success looks like for Grammy-winning artists.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
-
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
 
 ## AI acknowledgements
 > If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
-Text here!
+I consulted AI mostly on how to make my visualizations more readable to audiences. I also asked AI if my story was clear and cohesive based on my topic, and how to make sure that my visuals did not get repetitive. AI suggested that I measure time by having a Prior Years chart and the 5 Years After chart, which I ended up making. I finally used it to check my grammar.
+
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+I really enjoyed the process and how creative I got during the process! Unfortunately my first idea did not work out as I wanted to use my own Spotify data (apparently it take up to a month to get it, which is ridiculous!). Maybe in the future I will revisit that idea, but I am happy with how my project came out. 
 
 
