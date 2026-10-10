@@ -29,7 +29,7 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 These visualizations are based of the data from OECD, which you can find at https://www.oecd.org/en/data/indicators/general-government-debt.html
 OECD defines general government debt as a percentage of GDP. This is calculated from currency and deposits, debt securities, loans, insurance, pensions, accounts payable and standardized guarantee schemes. These visualizations demonstrate the sustainability of different government finances and changes in their debt over time. 
 <iframe
